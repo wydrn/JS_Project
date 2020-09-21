@@ -35,6 +35,7 @@ This repository is for learning JavaScript.
 
 6. ToDo App
 
+- Design: http://todomvc.com/examples/react/#/
 - CRUD todos
 - localStorage
 
