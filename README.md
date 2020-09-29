@@ -41,9 +41,18 @@ This repository is for learning JavaScript.
 
 7. Movie App
 
+- https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
 - list of movies
 - movie info
 - fav movie
 - actors
 
 8. GitHub Profiles App
+
+-
+- search for user
+- get and show data
+
+9. password Generator
+
+-
